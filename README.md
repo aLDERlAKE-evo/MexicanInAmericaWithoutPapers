@@ -7,7 +7,7 @@ This extension is purely made for experimental purposes. It enables you to strea
 (OPTIONAL) Install any adblocker for a smoother and ad free experience.
 
   ### Method A (Works only on a very few browsers(not in chrome or edge) such as Opera GX as of 15th August 2025)
-  1. Download the "[Project A.crx](https://github.com/a5a758c6-dad4-4a7f-bc2a-b1d21f608b12)"
+  1. Download the "[Project A.crx](https://raw.githubusercontent.com/aLDERlAKE-evo/MexicanInAmericaWithoutPapers/refs/heads/main/Method%20A/Project%20A.crx)"
   2. Double click the "Project A.crx" file, and it should automatically do everything on its own.
   3. Incase you get an error while doing that, resort to Method B.
   
