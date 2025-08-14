@@ -1,4 +1,4 @@
-DISCLAIMER: This is solely created for educational purposes, i do not own or run any of these streaming services or servers.
+DISCLAIMER: This is solely created for educational purposes, i do not own or run any of these streaming services or servers; I do not encourage piracy in any way or form, use at your own risk.
 
 # Watch anything for free!!!
 This extension is purely made for experimental purposes. It enables you to stream any movie or web series available in the market after it leaves the cinema halls.
