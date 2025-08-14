@@ -1,5 +1,6 @@
-# Watch anything for free
+DISCLAIMER: This is solely created for educational purposes, i do not own or run any of these streaming services or servers.
 
+# Watch anything for free!!!
 This extension is purely made for experimental purposes. It enables you to stream any movie or web series available in the market after it leaves the cinema halls.
 
 
@@ -28,3 +29,6 @@ This extension is purely made for experimental purposes. It enables you to strea
 3. it will load for a while.
 4. After loading is complete it will display the show name and activating the play button.
 5. Press the play button and it will open in a new tab with your show.
+
+
+
