@@ -12,7 +12,7 @@ This extension is purely made for experimental purposes. It enables you to strea
   3. Incase you get an error while doing that, resort to Method B.
   
   ### Method B
-  1. Download "[Method B](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FaLDERlAKE-evo%2FMexicanInAmericaWithoutPapers%2Ftree%2Fmain%2FMethod%2520B)" and extract into a folder. (Click the blue "Method B" text)
+  1. Hold "ctrl/cmd" and click the -> "[Method B](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FaLDERlAKE-evo%2FMexicanInAmericaWithoutPapers%2Ftree%2Fmain%2FMethod%2520B)" downloading the zip file and extract into a folder. (Hold the ctrl/cmd key and click the blue "Method B" text)
   2. Open the settings of your browser.
   3. Navigate to "Extensions".
   4. Click "Manage extensions".
