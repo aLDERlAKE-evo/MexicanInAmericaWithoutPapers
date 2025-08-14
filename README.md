@@ -7,12 +7,12 @@ This extension is purely made for experimental purposes. It enables you to strea
 (OPTIONAL) Install any adblocker for a smoother and ad free experience.
 
   ### Method A (Works only on a very few browsers(not in chrome or edge) such as Opera GX as of 15th August 2025)
-  1. Download the "[Project A.crx](https://raw.githubusercontent.com/aLDERlAKE-evo/MexicanInAmericaWithoutPapers/refs/heads/main/Method%20A/Project%20A.crx)"
+  1. Download the "[Method A.crx](https://raw.githubusercontent.com/aLDERlAKE-evo/MexicanInAmericaWithoutPapers/refs/heads/main/Method%20A/Project%20A.crx)" file (Click the blue "Method A.crx" text)
   2. Double click the "Project A.crx" file, and it should automatically do everything on its own.
   3. Incase you get an error while doing that, resort to Method B.
   
   ### Method B
-  1. Download the files in "[Method B](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FaLDERlAKE-evo%2FMexicanInAmericaWithoutPapers%2Ftree%2Fmain%2FMethod%2520B)" and extract into a folder.
+  1. Download "[Method B](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FaLDERlAKE-evo%2FMexicanInAmericaWithoutPapers%2Ftree%2Fmain%2FMethod%2520B)" and extract into a folder. (Click the blue "Method B" text)
   2. Open the settings of your browser.
   3. Navigate to "Extensions".
   4. Click "Manage extensions".
