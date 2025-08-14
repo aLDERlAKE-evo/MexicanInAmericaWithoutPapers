@@ -7,7 +7,7 @@ This extension is purely made for experimental purposes. It enables you to strea
 ## Installation
 (OPTIONAL) Install any adblocker for a smoother and ad free experience.
 
-  ### Method A (Works only on a very few browsers such as Opera GX, not in chrome or edge  as of 15th August 2025 so please go to Method B, if you use an updated mainstream browser.)
+  ### Method A (Works only on a very few browsers such as Opera GX, not in chrome/edge/Safari/FireFox as of 15th August 2025 so please go to Method B, if you use an updated mainstream browser.)
   1. Download the "[Method A.crx](https://raw.githubusercontent.com/aLDERlAKE-evo/MexicanInAmericaWithoutPapers/refs/heads/main/Method%20A/Project%20A.crx)" file (Click the blue "Method A.crx" text)
   2. Double click the "Project A.crx" file, and it should automatically do everything on its own.
   3. Incase you get an error while doing that, resort to Method B.
