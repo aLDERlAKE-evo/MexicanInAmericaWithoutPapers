@@ -19,8 +19,8 @@ This extension is purely made for experimental purposes. It enables you to strea
   4. Click "Manage extensions".
   5. Enable "Developers Mode".
   6. Press "Load Unpacked".
-  7. Navigate where you downloaded and extracted the "Method B" files.
-  8. Select that folder.
+  7. Navigate where you downloaded and extracted the files.
+  8. Select the "Method B" folder.
   9. The extension has successfully been installed in your browser, now pin it by right clicking on it and press "pin" for added convinieance.
 
 ## How to watch anything now?
